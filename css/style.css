@@ -536,13 +536,12 @@ input {
 /*Footer*/
 
 .footer {
-  background-color: #0d121b;
-  text-align: center;
+  background-color: rgb(245, 245, 247);
+  font-size: 10px;
   padding-top: 30px;
-  padding-bottom: 100px;
+  padding-bottom: 30px;
   padding-left: 50px;
   padding-right: 50px;
-  color: #555d6d;
 }
 .btn {
   border-radius: 2px;
