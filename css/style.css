@@ -716,8 +716,8 @@ h3 {
 }
 .icon-title {
   margin-top: 40px;
-  margin-left: 130px;
   margin-bottom: 30px;
+  text-align: center;
 }
 .small-info {
   width: 350px;
